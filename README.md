@@ -1,121 +1,74 @@
-<!-- ========================================================= -->
-<!--                 MUHAMMAD MAAVIA RIZWAN                     -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Muhammad%20Maavia%20Rizwan&fontAlignY=40&fontSize=50&desc=AI%20•%20Machine%20Learning%20•%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" />
+# Muhammad Maavia Rizwan
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Computer+Science+Student;Python+Developer;Community+Leader" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/maaviarizwan">
+    <img src="https://img.shields.io/github/followers/maaviarizwan?style=for-the-badge&logo=github&label=Followers&color=6C63FF">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=maaviarizwan&style=for-the-badge&color=6C63FF">
 </p>
 
-<h1 align="center">
-Hi 👋, I'm Muhammad Maavia Rizwan
-</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;AI+Explorer;Community+Builder;Open+Source+Learner;Always+Learning+Something+New+🚀" />
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+# 👋 About Me
 
-🎓 BS Computer Science Student
+```python
+class MuhammadMaavia:
 
-🏫 Islamia College Peshawar
+    def __init__(self):
+        self.name = "Muhammad Maavia Rizwan"
+        self.country = "Pakistan 🇵🇰"
+        self.education = "BS Computer Science"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Data Science"
+        ]
 
-💻 Passionate about Artificial Intelligence & Machine Learning
+        self.roles = [
+            "Management Lead @ Software Synergy Club",
+            "Canva Graphic Designer",
+            "Community Builder"
+        ]
 
-🌐 Full Stack Web Developer
+    def life_goal(self):
+        return "Build intelligent solutions that create real-world impact."
 
-🎨 UI/UX & Canva Designer
-
-🚀 Management Lead @ Software Synergy Club
-
-🌱 Currently Learning
-
-- Deep Learning
-- LLMs
-- Next.js
-- Data Science
-- Generative AI
-
-💬 Ask me about
-
-- Python
-- Machine Learning
-- GitHub
-- Web Development
-- Canva
-
-⚡ Fun Fact
-
-> "I enjoy turning ideas into real-world software."
+me = MuhammadMaavia()
+```
 
 ---
 
-# 🌍 Connect With Me
+# 🚀 Currently Learning
 
-<p align="center">
-
-<a href="https://github.com/maaviarizwan">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://linkedin.com/in/maavia-rizwan">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://instagram.com/maaviarizwan">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-</p>
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Data Science
+- 🐍 Advanced Python
+- 🔬 AI Research
+- 💡 Generative AI
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-## Languages
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
 </p>
 
-## Frontend
+### AI & Data Science
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
-
-</p>
-
-## AI / Data Science
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
-
 </p>
 
 - NumPy
@@ -124,31 +77,33 @@ Hi 👋, I'm Muhammad Maavia Rizwan
 - OpenCV
 - Matplotlib
 
----
-
-# 🛠 Tools
+### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,windows,canva"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
+
+### Design
+
+- Canva
+- UI Design
+- Presentation Design
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -158,7 +113,7 @@ Hi 👋, I'm Muhammad Maavia Rizwan
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Activity Graph
 
 <p align="center">
 
@@ -172,114 +127,73 @@ Hi 👋, I'm Muhammad Maavia Rizwan
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=maaviarizwan&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=maaviarizwan&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🚀 Current Goals
+# 🎯 Current Focus
 
-✅ Master Machine Learning
-
-✅ Build AI Products
-
-✅ Contribute to Open Source
-
-✅ Learn System Design
-
-✅ Explore LLMs
-
-✅ Become an AI Engineer
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🔬 Research
+- 🌍 Open Source
+- 👥 Community Leadership
 
 ---
 
-# 📂 Featured Interests
+# 🌱 My Journey
 
-🤖 Artificial Intelligence
+```text
+2019  ██████░░░░░░░ Started Programming
 
-🧠 Machine Learning
+2021  █████████░░░░ Python & Problem Solving
 
-🌐 Full Stack Development
+2022  ███████████░░ BS Computer Science
 
-📱 Responsive Web Design
+2023  █████████████ Machine Learning
 
-📊 Data Science
+2024  █████████████ Leadership & Community
 
-🎨 UI/UX Design
+2025  █████████████ AI Projects
 
-🚀 Open Source
+2026  █████████████ Deep Learning & Research
+```
 
 ---
 
-# 📈 Coding Activity
+# 💭 Philosophy
+
+> **"Learning never stops. Every line of code is another step toward building something meaningful."**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maaviarizwan&theme=tokyonight"/>
+<a href="https://github.com/maaviarizwan">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
 
 </p>
 
 ---
 
-# ⚡ GitHub Profile Summary
+<div align="center">
 
-<p align="center">
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maaviarizwan&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maaviarizwan&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maaviarizwan&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maaviarizwan&theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=maaviarizwan&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> "Code. Learn. Build. Repeat."
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions and add a snake workflow later to display an animated contribution snake here.
-
----
-
-<h2 align="center">
-Thanks for visiting ❤️
-</h2>
-
-<p align="center">
-
-⭐ If you like my work, consider following me!
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-</p>
+</div>
