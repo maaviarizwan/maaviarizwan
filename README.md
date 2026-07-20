@@ -1,89 +1,395 @@
 <div align="center">
 
-<img src="assets/hero-banner.svg" width="100%" alt="Maavia Rizwan"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:09090B,20:1E1B4B,45:312E81,70:4F46E5,100:06B6D4&text=MUHAMMAD%20MAAVIA%20RIZWAN&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%20•%20%20Machine%20Learning%20%20•%20%20Computer%20Science&descAlignY=58"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Turning+Ideas+into+Intelligent+Solutions.;Machine+Learning+Explorer.;Python+Developer.;Community+Leader.;Always+Learning+Something+New."/>
+
+<br><br>
+
+<p>
+
+<img src="https://img.shields.io/github/followers/maaviarizwan?style=for-the-badge&logo=github&label=Followers&color=18181B"/>
+
+<img src="https://komarev.com/ghpvc/?username=maaviarizwan&style=for-the-badge&color=06B6D4"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Enthusiast-0EA5E9?style=for-the-badge"/>
+
+</p>
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+# <img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png"> About Me
 
-### Computer Science Student · AI & ML Enthusiast · Python Developer
-*Turning curiosity into code — one experiment at a time.*
+```python
+class MuhammadMaavia:
 
-<br/>
+    def __init__(self):
 
-**[LinkedIn](https://www.linkedin.com/in/maavia-rizwan)**  &nbsp;·&nbsp;  **[GitHub](https://github.com/maaviarizwan)**  &nbsp;·&nbsp;  📍 Peshawar, Pakistan
+        self.role = "Computer Science Student"
+
+        self.focus = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Research"
+        ]
+
+        self.currently_learning = [
+            "PyTorch",
+            "LLMs",
+            "Deep Learning",
+            "Advanced Python"
+        ]
+
+        self.hobbies = [
+            "Design",
+            "Photography",
+            "Community Building",
+            "Learning"
+        ]
+
+    def dream(self):
+
+        return "Build AI products that solve real-world problems."
+
+```
 
 </div>
 
-<br/>
 
-## 🧠 About Me
+<br>
 
-<table>
+<h2 align="center">
+⚡ AI CONTROL CENTER
+</h2>
+
+<table align="center">
 <tr>
-<td width="100%">
 
-- 🎓 BS Computer Science student, based in Peshawar, Pakistan
-- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
-- 🐍 Building projects with **Python**, exploring data-driven systems
-- 🌱 Always learning, always shipping — one commit at a time
-- ⚡ I enjoy turning messy problems into clean, working code
+<td width="50%">
+
+### 🧠 Neural Engine
+
+```text
+Artificial Intelligence      ████████████░░   85%
+
+Machine Learning             ███████████░░░   82%
+
+Python                       ██████████████   95%
+
+Computer Vision              ████████░░░░░   60%
+
+Deep Learning                ███████░░░░░░   55%
+
+Research                     █████████░░░░   70%
+```
 
 </td>
+
+<td width="50%">
+
+### 🚀 Current Mission
+
+```yaml
+Status:
+  Mode: Learning
+
+Current Objective:
+  - Build AI Applications
+  - Publish ML Projects
+  - Explore LLMs
+  - Learn PyTorch
+
+Coffee: Required ☕
+Bugs: Expected 🐞
+Motivation: Infinite ♾️
+```
+
+</td>
+
 </tr>
 </table>
 
-<br/>
-
-## 🛠️ Tech Stack
+---
 
 <div align="center">
 
-<img src="assets/stack-badges.svg" width="82%" alt="Tech stack"/>
+## 📊 GitHub Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E75B6&icon_color=2E75B6&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maaviarizwan&theme=tokyonight&hide_border=true&background=0d1117&ring=2E75B6&fire=1F4E79&currStreakLabel=2E75B6" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&theme=tokyonight&hide_border=true&title_color=2E75B6&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
+<img src="https://streak-stats.demolab.com?user=maaviarizwan&theme=transparent&hide_border=true"/>
 
 </div>
 
-## 🏆 Trophy Case
+---
+
+<h2 align="center">
+
+🛰 SYSTEM STATUS
+
+</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=maaviarizwan&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+| Module | Status |
+|---------|--------|
+| 🟢 Python | Online |
+| 🟢 Machine Learning | Online |
+| 🟢 AI Projects | Building |
+| 🟢 Deep Learning | Learning |
+| 🟢 Research | Active |
+| 🟢 Open Source | Ready |
 
 </div>
 
-## 📈 Activity Graph
+---
+
+
+
+<!-- =========================================== -->
+<!--             FEATURED MISSIONS               -->
+<!-- =========================================== -->
+
+<h1 align="center">🚀 Featured Missions</h1>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maaviarizwan&theme=tokyo-night&hide_border=true&area=true&color=2E75B6&line=1F4E79&point=ffffff" width="95%"/>
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 AI & Machine Learning
+
+Building intelligent systems with Python and modern AI tools.
+
+**Current Focus**
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- LLMs
+- Data Science
+
+⭐ Featured Repository
+
+➡️ **Machine-Learning**
+
+</td>
+
+<td width="50%">
+
+## 🧠 Research
+
+Exploring algorithms, mathematics and intelligent computing.
+
+Current Interests
+
+- Neural Networks
+- Image Processing
+- Pattern Recognition
+- AI Research
+- Model Optimization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🎨 Design
+
+Creating clean visual experiences.
+
+Tools
+
+• Canva
+
+• Presentation Design
+
+• Branding
+
+• Social Media Graphics
+
+</td>
+
+<td width="50%">
+
+## 👥 Leadership
+
+Management Lead
+
+Software Synergy Club
+
+✔ Community Events
+
+✔ Team Management
+
+✔ Student Leadership
+
+✔ Workshops
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-<br/>
+---
+
+# 🌌 Current Mission
+
+```text
+MISSION:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Build Artificial Intelligence solutions
+that solve real-world problems.
+
+STATUS
+
+██████████████████░░░░░░░░░░░ 65%
+
+Mission Progress...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 📌 Current Objectives
+
+```yaml
+2026 Goals
+
+✓ Master Machine Learning
+
+✓ Learn Deep Learning
+
+✓ Publish AI Projects
+
+✓ Contribute to Open Source
+
+✓ Build Research Portfolio
+
+✓ Continue Community Leadership
+```
+
+---
 
 <div align="center">
 
-### 🤝 Let's Build Something Great Together
-
-<i>"Building today what I'll be proud of tomorrow."</i>
+# "The future belongs to those who build it."
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1F4E79&height=100&section=footer" width="100%"/>
+<h2 align="center">✨ Featured Projects</h2>
+
+<p align="center">
+These are the projects that reflect my passion for Artificial Intelligence, Machine Learning and solving real-world problems.
+</p>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Machine Learning
+
+Developing intelligent models using Python.
+
+**Tech**
+
+`Python`
+`NumPy`
+`Pandas`
+`Scikit-Learn`
+
+🔗 **Repository:** *(Add your repository link here)*
+
+</td>
+
+<td width="50%">
+
+### 🧠 Deep Learning
+
+Learning neural networks and modern AI architectures.
+
+**Currently Exploring**
+
+- CNNs
+- Transfer Learning
+- PyTorch
+- TensorFlow
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 Data Science
+
+Working with real-world datasets to discover insights.
+
+- Data Cleaning
+- Data Visualization
+- Feature Engineering
+- Model Evaluation
+
+</td>
+
+<td width="50%">
+
+### 🎨 Creative Design
+
+Creating visual content using Canva.
+
+- Posters
+- Presentations
+- Social Media
+- Branding
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">🎯 2026 Roadmap</h2>
+
+- ✅ Master Python for AI
+- 🚀 Build impactful ML projects
+- 🧠 Learn Deep Learning
+- 📚 Publish research-oriented work
+- 🌍 Contribute to Open Source
+- 🤝 Grow as a Community Leader
+
+---
+
