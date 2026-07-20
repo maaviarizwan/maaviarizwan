@@ -1,64 +1,66 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:09090B,20:1E1B4B,45:312E81,70:4F46E5,100:06B6D4&text=MUHAMMAD%20MAAVIA%20RIZWAN&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%20•%20%20Machine%20Learning%20%20•%20%20Computer%20Science&descAlignY=58"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Turning+Ideas+into+Intelligent+Solutions.;Machine+Learning+Explorer.;Python+Developer.;Community+Leader.;Always+Learning+Something+New."/>
-
-<br><br>
-
-<p>
-
-<img src="https://img.shields.io/github/followers/maaviarizwan?style=for-the-badge&logo=github&label=Followers&color=18181B"/>
-
-<img src="https://komarev.com/ghpvc/?username=maaviarizwan&style=for-the-badge&color=06B6D4"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-4F46E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Enthusiast-0EA5E9?style=for-the-badge"/>
-
-</p>
+<img src="assets/hero-banner.svg" width="100%" alt="Maavia Rizwan"/>
 
 </div>
 
----
+<br/>
 
-# <img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png"> About Me
+<div align="center">
 
-```python
-class MuhammadMaavia:
+*Turning curiosity into code — one experiment at a time.*
 
-    def __init__(self):
+</div>
 
-        self.role = "Computer Science Student"
+<br/>
 
-        self.focus = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Research"
-        ]
+## Tech I build with
 
-        self.currently_learning = [
-            "PyTorch",
-            "LLMs",
-            "Deep Learning",
-            "Advanced Python"
-        ]
+<div align="center">
 
-        self.hobbies = [
-            "Design",
-            "Photography",
-            "Community Building",
-            "Learning"
-        ]
+<img src="assets/stack-badges.svg" width="82%" alt="Tech stack"/>
 
-    def dream(self):
+</div>
 
-        return "Build AI products that solve real-world problems."
+<br/>
 
-```
+## GitHub in numbers
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E75B6&icon_color=2E75B6&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maaviarizwan&theme=tokyonight&hide_border=true&background=0d1117&ring=2E75B6&fire=1F4E79&currStreakLabel=2E75B6" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&theme=tokyonight&hide_border=true&title_color=2E75B6&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
+
+</div>
+
+## Trophy case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=maaviarizwan&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+
+</div>
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maaviarizwan&theme=tokyo-night&hide_border=true&area=true&color=2E75B6&line=1F4E79&point=ffffff" width="95%"/>
+
+</div>
+
+## Connect
+
+<div align="center">
+
+**[LinkedIn](https://www.linkedin.com/in/maavia-rizwan)**  &nbsp;·&nbsp;  **[GitHub](https://github.com/maaviarizwan)**
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Peshawar, Pakistan</sub>
 </div>
