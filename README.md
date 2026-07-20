@@ -8,13 +8,36 @@
 
 <div align="center">
 
+### Computer Science Student · AI & ML Enthusiast · Python Developer
 *Turning curiosity into code — one experiment at a time.*
+
+<br/>
+
+**[LinkedIn](https://www.linkedin.com/in/maavia-rizwan)**  &nbsp;·&nbsp;  **[GitHub](https://github.com/maaviarizwan)**  &nbsp;·&nbsp;  📍 Peshawar, Pakistan
 
 </div>
 
 <br/>
 
-## Tech I build with
+## 🧠 About Me
+
+<table>
+<tr>
+<td width="100%">
+
+- 🎓 BS Computer Science student, based in Peshawar, Pakistan
+- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
+- 🐍 Building projects with **Python**, exploring data-driven systems
+- 🌱 Always learning, always shipping — one commit at a time
+- ⚡ I enjoy turning messy problems into clean, working code
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -24,7 +47,7 @@
 
 <br/>
 
-## GitHub in numbers
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -35,7 +58,7 @@
 
 </div>
 
-## Trophy case
+## 🏆 Trophy Case
 
 <div align="center">
 
@@ -43,7 +66,7 @@
 
 </div>
 
-## Activity
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -51,16 +74,16 @@
 
 </div>
 
-## Connect
+<br/>
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/maavia-rizwan)**  &nbsp;·&nbsp;  **[GitHub](https://github.com/maaviarizwan)**
+### 🤝 Let's Build Something Great Together
+
+<i>"Building today what I'll be proud of tomorrow."</i>
 
 </div>
 
 <br/>
 
-<div align="center">
-<sub>Peshawar, Pakistan</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1F4E79&height=100&section=footer" width="100%"/>
