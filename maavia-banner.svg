@@ -1,0 +1,144 @@
+<svg width="900" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050c1c"/>
+      <stop offset="50%" stop-color="#0a0f2c"/>
+      <stop offset="100%" stop-color="#071638"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="200" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#60efff"/>
+      <stop offset="100%" stop-color="#0099cc"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0a0f2c"/>
+      <stop offset="30%" stop-color="#0047AB"/>
+      <stop offset="70%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#0a0f2c"/>
+    </linearGradient>
+    <filter id="nameGlow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="dotGlow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bgGrad)"/>
+
+  <!-- Top + Bottom accent lines -->
+  <rect x="0" y="0" width="900" height="2.5" fill="url(#accentLine)" opacity="0.9"/>
+  <rect x="0" y="197.5" width="900" height="2.5" fill="url(#accentLine)" opacity="0.9"/>
+
+  <!-- ── LEFT neural network ── -->
+  <g stroke="#0047AB" stroke-width="0.7" opacity="0.22">
+    <line x1="18" y1="38" x2="75" y2="95"/>
+    <line x1="75" y1="95" x2="38" y2="162"/>
+    <line x1="75" y1="95" x2="138" y2="62"/>
+    <line x1="138" y1="62" x2="178" y2="135"/>
+    <line x1="38" y1="162" x2="138" y2="148"/>
+    <line x1="138" y1="148" x2="178" y2="135"/>
+    <line x1="18" y1="38" x2="138" y2="62"/>
+    <line x1="38" y1="8" x2="18" y2="38"/>
+    <line x1="98" y1="12" x2="138" y2="62"/>
+    <line x1="178" y1="28" x2="138" y2="62"/>
+    <line x1="178" y1="28" x2="178" y2="135"/>
+    <line x1="75" y1="95" x2="38" y2="8"/>
+  </g>
+  <g stroke="#00d4ff" stroke-width="1" opacity="0.12">
+    <line x1="75" y1="95" x2="138" y2="62"/>
+    <line x1="18" y1="38" x2="75" y2="95"/>
+  </g>
+  <g fill="#00d4ff" filter="url(#dotGlow)">
+    <circle cx="18" cy="38" r="3" opacity="0.55"/>
+    <circle cx="75" cy="95" r="4.5" opacity="0.75"/>
+    <circle cx="38" cy="162" r="2.5" opacity="0.4"/>
+    <circle cx="138" cy="62" r="3.5" opacity="0.65"/>
+    <circle cx="178" cy="135" r="2.5" opacity="0.45"/>
+    <circle cx="138" cy="148" r="2" opacity="0.35"/>
+    <circle cx="38" cy="8" r="2" opacity="0.3"/>
+    <circle cx="98" cy="12" r="2.5" opacity="0.35"/>
+    <circle cx="178" cy="28" r="2" opacity="0.3"/>
+  </g>
+
+  <!-- ── RIGHT neural network (mirrored) ── -->
+  <g stroke="#0047AB" stroke-width="0.7" opacity="0.22">
+    <line x1="882" y1="38" x2="825" y2="95"/>
+    <line x1="825" y1="95" x2="862" y2="162"/>
+    <line x1="825" y1="95" x2="762" y2="62"/>
+    <line x1="762" y1="62" x2="722" y2="135"/>
+    <line x1="862" y1="162" x2="762" y2="148"/>
+    <line x1="762" y1="148" x2="722" y2="135"/>
+    <line x1="882" y1="38" x2="762" y2="62"/>
+    <line x1="862" y1="8" x2="882" y2="38"/>
+    <line x1="802" y1="12" x2="762" y2="62"/>
+    <line x1="722" y1="28" x2="762" y2="62"/>
+    <line x1="722" y1="28" x2="722" y2="135"/>
+    <line x1="825" y1="95" x2="862" y2="8"/>
+  </g>
+  <g stroke="#00d4ff" stroke-width="1" opacity="0.12">
+    <line x1="825" y1="95" x2="762" y2="62"/>
+    <line x1="882" y1="38" x2="825" y2="95"/>
+  </g>
+  <g fill="#00d4ff" filter="url(#dotGlow)">
+    <circle cx="882" cy="38" r="3" opacity="0.55"/>
+    <circle cx="825" cy="95" r="4.5" opacity="0.75"/>
+    <circle cx="862" cy="162" r="2.5" opacity="0.4"/>
+    <circle cx="762" cy="62" r="3.5" opacity="0.65"/>
+    <circle cx="722" cy="135" r="2.5" opacity="0.45"/>
+    <circle cx="762" cy="148" r="2" opacity="0.35"/>
+    <circle cx="862" cy="8" r="2" opacity="0.3"/>
+    <circle cx="802" cy="12" r="2.5" opacity="0.35"/>
+    <circle cx="722" cy="28" r="2" opacity="0.3"/>
+  </g>
+
+  <!-- Decorative brackets -->
+  <text x="215" y="112" font-family="'Courier New',Courier,monospace" font-size="48" fill="#0047AB" opacity="0.25" text-anchor="middle">[</text>
+  <text x="685" y="112" font-family="'Courier New',Courier,monospace" font-size="48" fill="#0047AB" opacity="0.25" text-anchor="middle">]</text>
+
+  <!-- MAAVIA RIZWAN — main hero text -->
+  <text x="450" y="103"
+    font-family="'Courier New',Courier,monospace"
+    font-size="52"
+    font-weight="bold"
+    fill="url(#nameGrad)"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    filter="url(#nameGlow)"
+    letter-spacing="5">
+    MAAVIA RIZWAN
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="143"
+    font-family="'Courier New',Courier,monospace"
+    font-size="13.5"
+    fill="#7ec8e3"
+    text-anchor="middle"
+    letter-spacing="4.5"
+    opacity="0.88">
+    AI/ML ENGINEER  ·  CS STUDENT  ·  PAKISTAN 🇵🇰
+  </text>
+
+  <!-- Tagline -->
+  <text x="450" y="168"
+    font-family="'Courier New',Courier,monospace"
+    font-size="11.5"
+    fill="#4a9eff"
+    text-anchor="middle"
+    letter-spacing="2"
+    font-style="italic"
+    opacity="0.72">
+    ⚡ Wired for Intelligence. ⚡
+  </text>
+</svg>

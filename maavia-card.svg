@@ -1,0 +1,157 @@
+<svg width="290" height="430" viewBox="0 0 290 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="290" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0a0f2c"/>
+      <stop offset="100%" stop-color="#071028"/>
+    </linearGradient>
+    <linearGradient id="headerBg" x1="0" y1="0" x2="290" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0047AB"/>
+      <stop offset="100%" stop-color="#005fd4"/>
+    </linearGradient>
+    <linearGradient id="avatarRing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#0047AB"/>
+    </linearGradient>
+    <linearGradient id="badgeGrad" x1="0" y1="0" x2="200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#0099cc"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00d4ff" flood-opacity="0.25"/>
+    </filter>
+    <filter id="glowSmall" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="cardClip">
+      <rect x="1" y="1" width="288" height="428" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card body + border -->
+  <rect x="1" y="1" width="288" height="428" rx="14" fill="url(#cardBg)" filter="url(#cardShadow)"/>
+  <rect x="1" y="1" width="288" height="428" rx="14" fill="none" stroke="url(#avatarRing)" stroke-width="1.8" opacity="0.6"/>
+
+  <!-- Lanyard hole + chain at top -->
+  <rect x="120" y="-1" width="50" height="28" rx="4" fill="#0d1a3e" stroke="#0047AB" stroke-width="1.2"/>
+  <rect x="130" y="4" width="30" height="16" rx="3" fill="#071028"/>
+  <circle cx="145" cy="12" r="4" fill="#00d4ff" opacity="0.7" filter="url(#glowSmall)"/>
+  <line x1="145" y1="2" x2="145" y2="-20" stroke="#0047AB" stroke-width="2" stroke-dasharray="3 2" opacity="0.5"/>
+
+  <!-- Header strip -->
+  <rect x="1" y="26" width="288" height="46" fill="url(#headerBg)" clip-path="url(#cardClip)"/>
+  <text x="145" y="44" font-family="'Courier New',Courier,monospace" font-size="9" font-weight="bold"
+    fill="white" text-anchor="middle" letter-spacing="4" opacity="0.85">
+    ◈  AI RESEARCH  ◈
+  </text>
+  <text x="145" y="62" font-family="'Courier New',Courier,monospace" font-size="7.5"
+    fill="#c8e8ff" text-anchor="middle" letter-spacing="3" opacity="0.75">
+    ISLAMIA COLLEGE PESHAWAR
+  </text>
+
+  <!-- Avatar circle -->
+  <circle cx="145" cy="140" r="48" fill="#071028" stroke="url(#avatarRing)" stroke-width="2.5" filter="url(#glowSmall)"/>
+  <circle cx="145" cy="140" r="42" fill="#0a1535"/>
+  <!-- Inner ring (dashed) -->
+  <circle cx="145" cy="140" r="36" fill="none" stroke="#0047AB" stroke-width="1" stroke-dasharray="5 3" opacity="0.4"/>
+  <!-- MR initials -->
+  <text x="145" y="133" font-family="'Courier New',Courier,monospace" font-size="24" font-weight="bold"
+    fill="#00d4ff" text-anchor="middle" dominant-baseline="middle" filter="url(#glowSmall)">
+    MR
+  </text>
+  <text x="145" y="155" font-family="'Courier New',Courier,monospace" font-size="7"
+    fill="#4a9eff" text-anchor="middle" letter-spacing="1.5" opacity="0.7">
+    ⚡ RESEARCHER
+  </text>
+
+  <!-- Divider -->
+  <line x1="24" y1="200" x2="266" y2="200" stroke="#0047AB" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Name -->
+  <text x="145" y="224" font-family="'Courier New',Courier,monospace" font-size="15" font-weight="bold"
+    fill="white" text-anchor="middle" letter-spacing="2">
+    MAAVIA RIZWAN
+  </text>
+
+  <!-- Role -->
+  <text x="145" y="243" font-family="'Courier New',Courier,monospace" font-size="9.5"
+    fill="#7ec8e3" text-anchor="middle" letter-spacing="2" opacity="0.85">
+    BS COMPUTER SCIENCE · SEM 1
+  </text>
+
+  <!-- Divider 2 -->
+  <line x1="24" y1="258" x2="266" y2="258" stroke="#0047AB" stroke-width="0.6" stroke-dasharray="4 3" opacity="0.35"/>
+
+  <!-- Research label -->
+  <text x="30" y="276" font-family="'Courier New',Courier,monospace" font-size="8"
+    fill="#4a9eff" letter-spacing="2" opacity="0.7">
+    ACTIVE RESEARCH
+  </text>
+
+  <!-- Research project box -->
+  <rect x="24" y="282" width="242" height="56" rx="6" fill="#0d1a3e" stroke="#0047AB" stroke-width="0.8" opacity="0.9"/>
+  <text x="145" y="300" font-family="'Courier New',Courier,monospace" font-size="8.5" font-weight="bold"
+    fill="#00d4ff" text-anchor="middle" letter-spacing="1.5">
+    Skin Lesion Classification
+  </text>
+  <text x="145" y="316" font-family="'Courier New',Courier,monospace" font-size="7.5"
+    fill="#7ec8e3" text-anchor="middle" opacity="0.8">
+    HAM10000  ·  CNN  ·  ViT  ·  Hybrid
+  </text>
+  <text x="145" y="330" font-family="'Courier New',Courier,monospace" font-size="7"
+    fill="#4a9eff" text-anchor="middle" opacity="0.7">
+    Target: MIDL · ISBI
+  </text>
+
+  <!-- Skills row -->
+  <text x="30" y="358" font-family="'Courier New',Courier,monospace" font-size="8"
+    fill="#4a9eff" letter-spacing="2" opacity="0.7">
+    STACK
+  </text>
+  <text x="145" y="374" font-family="'Courier New',Courier,monospace" font-size="8"
+    fill="#c9d1d9" text-anchor="middle" opacity="0.75" letter-spacing="1">
+    PyTorch  ·  Python  ·  OpenCV  ·  Colab
+  </text>
+
+  <!-- Divider 3 -->
+  <line x1="24" y1="386" x2="266" y2="386" stroke="#0047AB" stroke-width="0.6" opacity="0.3"/>
+
+  <!-- Barcode style at bottom -->
+  <g transform="translate(70, 394)" opacity="0.3">
+    <rect x="0"  y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="4"  y="0" width="4"  height="22" fill="#00d4ff"/>
+    <rect x="10" y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="14" y="0" width="6"  height="22" fill="#00d4ff"/>
+    <rect x="22" y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="26" y="0" width="4"  height="22" fill="#00d4ff"/>
+    <rect x="32" y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="36" y="0" width="6"  height="22" fill="#00d4ff"/>
+    <rect x="44" y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="48" y="0" width="4"  height="22" fill="#00d4ff"/>
+    <rect x="54" y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="58" y="0" width="6"  height="22" fill="#00d4ff"/>
+    <rect x="66" y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="70" y="0" width="4"  height="22" fill="#00d4ff"/>
+    <rect x="76" y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="80" y="0" width="6"  height="22" fill="#00d4ff"/>
+    <rect x="88" y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="92" y="0" width="4"  height="22" fill="#00d4ff"/>
+    <rect x="98" y="0" width="2"  height="22" fill="#00d4ff"/>
+    <rect x="102" y="0" width="6" height="22" fill="#00d4ff"/>
+    <rect x="110" y="0" width="2" height="22" fill="#00d4ff"/>
+    <rect x="114" y="0" width="2" height="22" fill="#00d4ff"/>
+    <rect x="118" y="0" width="4" height="22" fill="#00d4ff"/>
+    <rect x="124" y="0" width="2" height="22" fill="#00d4ff"/>
+    <rect x="128" y="0" width="6" height="22" fill="#00d4ff"/>
+    <rect x="136" y="0" width="2" height="22" fill="#00d4ff"/>
+    <rect x="140" y="0" width="4" height="22" fill="#00d4ff"/>
+    <rect x="146" y="0" width="2" height="22" fill="#00d4ff"/>
+  </g>
+  <text x="145" y="425" font-family="'Courier New',Courier,monospace" font-size="6.5"
+    fill="#4a9eff" text-anchor="middle" opacity="0.4" letter-spacing="2">
+    github.com/maaviarizwan
+  </text>
+</svg>
