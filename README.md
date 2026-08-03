@@ -1,32 +1,200 @@
-![Maavia Rizwan — AI/ML Engineer](./maavia-banner.svg)
+<h1 align="center">Hi 👋, I'm Muhammad Maavia Rizwan</h1>
 
-| [![Maavia Rizwan Researcher Card](./maavia-card.svg)](#) | 🧠 My Research & Projects <br/><br/> 🔬 Project \| 💻 Stack \| ⭐ <br/>--- \| --- \| --- <br/>[🧬 Skin Lesion Classification — HAM10000](https://github.com/maaviarizwan) \| `PyTorch` `CNN` `ViT` \| 🔥 Active <br/>[👁️ Hybrid CNN-ViT Architecture](https://github.com/maaviarizwan) \| `Python` `OpenCV` `Colab` \| 🚀 WIP <br/>[📊 Medical Image Preprocessing Pipeline](https://github.com/maaviarizwan) \| `NumPy` `Pandas` `Matplotlib` \| ✅ Done <br/><br/> > ⚡ *"Wired for Intelligence."* |
-| --- | --- |
+<h3 align="center">
+Artificial Intelligence Enthusiast • Machine Learning Explorer • Computer Science Student
+</h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Building+Intelligent+Solutions.;Machine+Learning+Explorer.;Python+Developer.;Computer+Science+Student.;Always+Learning+Something+New." />
+</p>
 
-### 📊 GitHub Stats & Graphs
+<p align="center">
+<a href="https://github.com/maaviarizwan">
+<img src="https://img.shields.io/github/followers/maaviarizwan?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f2c&title_color=00d4ff&icon_color=0047AB&text_color=c9d1d9)](https://github.com/maaviarizwan)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&langs_count=8&hide_border=true&bg_color=0a0f2c&title_color=00d4ff&text_color=c9d1d9)](https://github.com/maaviarizwan)
+<img src="https://komarev.com/ghpvc/?username=maaviarizwan&style=for-the-badge"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=maaviarizwan&theme=radical&hide_border=true&background=0a0f2c&stroke=0047AB&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=888888)](https://github.com/maaviarizwan)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maaviarizwan&bg_color=0a0f2c&color=00d4ff&line=0047AB&point=00d4ff&area=true&area_color=0047AB&hide_border=true&custom_title=Contribution%20Graph%20⚡)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=maaviarizwan&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🐍 Watch the snake eat my contributions
-
-![Contribution Snake](https://raw.githubusercontent.com/maaviarizwan/maaviarizwan/output/github-contribution-grid-snake-dark.svg)
+</p>
 
 ---
 
-### 📫 Let's Connect
+# 👨‍💻 About Me
 
-[![Email](https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maaviarizwanullah@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-0047AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaviarizwan)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f2c?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/maavia-rizwan)  [![Kaggle](https://img.shields.io/badge/Kaggle-0047AB?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maaviarizwan)
+🎓 BS Computer Science Student
 
-![Profile Views](https://komarev.com/ghpvc/?username=maaviarizwan&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+🏫 Islamia College Peshawar
 
-*⚡ Always learning, always building.*
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+📊 Interested in Data Science, Deep Learning and Computer Vision
+
+👥 Management Lead @ Software Synergy Club
+
+🎨 Canva Graphic Designer & Community Builder
+
+🌱 Currently learning
+
+- Machine Learning
+- Deep Learning
+- PyTorch
+- Computer Vision
+- Large Language Models (LLMs)
+
+🎯 Goal
+
+> Build intelligent AI solutions that solve real-world problems.
+
+---
+
+# 🛠 Skills
+
+### Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+
+</p>
+
+### Machine Learning
+
+- Python
+- NumPy
+- Pandas
+- Scikit-Learn
+- TensorFlow
+- OpenCV
+- Matplotlib
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
+
+### Design
+
+- Canva
+- Presentation Design
+- Social Media Graphics
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=maaviarizwan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maaviarizwan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🔬 Deep Learning
+- 👁 Computer Vision
+- 📚 AI Research
+- 🌍 Open Source
+
+---
+
+# 📌 Featured Projects
+
+Here are some of the projects I'm currently working on and learning from.
+
+- 🤖 Machine Learning Projects
+- 📊 Data Analysis with Python
+- 🧠 Deep Learning Experiments
+- 👁 Computer Vision Applications
+- 📚 AI Research Projects
+
+---
+
+# 🌱 2026 Learning Roadmap
+
+```text
+Python
+   │
+   ▼
+NumPy & Pandas
+   │
+   ▼
+Machine Learning
+   │
+   ▼
+Deep Learning
+   │
+   ▼
+Computer Vision
+   │
+   ▼
+Large Language Models
+   │
+   ▼
+Artificial Intelligence
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/maaviarizwan">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Every expert was once a beginner. Every intelligent system starts with a single line of code."**
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</p>
