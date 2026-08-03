@@ -1,175 +1,130 @@
-<h1 align="center">Hi 👋, I'm Muhammad Maavia Rizwan</h1>
+<div align="center">
 
-<h3 align="center">
-Artificial Intelligence Enthusiast • Machine Learning Explorer • Computer Science Student
-</h3>
+# 👋 Hi, I'm Muhammad Maavia Rizwan
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Building+Intelligent+Solutions.;Machine+Learning+Explorer.;Python+Developer.;Computer+Science+Student.;Always+Learning+Something+New." />
-</p>
+### 🤖 Artificial Intelligence Enthusiast • 🧠 Machine Learning Explorer • 🎓 BS Computer Science Student
 
-<p align="center">
-<a href="https://github.com/maaviarizwan">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Intelligent+Solutions.;Artificial+Intelligence+Enthusiast.;Machine+Learning+Explorer.;Deep+Learning+Learner.;Python+Developer.;Always+Learning+Something+New." />
+
+<br>
+
 <img src="https://img.shields.io/github/followers/maaviarizwan?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=maaviarizwan&style=for-the-badge"/>
 
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 BS Computer Science Student
+🎓 **BS Computer Science Student** at **Islamia College Peshawar**
 
-🏫 Islamia College Peshawar
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🧠 Currently exploring **Deep Learning**, **Computer Vision**, and **Large Language Models (LLMs)**
 
-📊 Interested in Data Science, Deep Learning and Computer Vision
-
-👥 Management Lead @ Software Synergy Club
+👥 **Management Lead** at **Software Synergy Club**
 
 🎨 Canva Graphic Designer & Community Builder
 
-🌱 Currently learning
-
-- Machine Learning
-- Deep Learning
-- PyTorch
-- Computer Vision
-- Large Language Models (LLMs)
-
-🎯 Goal
-
-> Build intelligent AI solutions that solve real-world problems.
+🌱 Always learning, experimenting, and building real-world AI projects.
 
 ---
 
-# 🛠 Skills
+# 🛠️ Tech Stack
 
-### Programming
+### 💻 Programming
 
-<p>
+- 🐍 Python
+- ☕ Java
+- 💙 C++
+- ⚙️ Git & GitHub
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+### 🤖 Artificial Intelligence
 
-</p>
-
-### Machine Learning
-
-- Python
+- TensorFlow
+- Scikit-learn
 - NumPy
 - Pandas
-- Scikit-Learn
-- TensorFlow
 - OpenCV
 - Matplotlib
 
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
-</p>
-
-### Design
+### 🎨 Design Tools
 
 - Canva
-- Presentation Design
-- Social Media Graphics
+- Figma (Learning)
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=maaviarizwan&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 📚 Current Learning
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maaviarizwan&theme=tokyo-night&hide_border=true"/>
-
-</p>
+| 🎯 Area | 🚀 Progress |
+|----------|-------------|
+| 🐍 Python | ████████████ |
+| 🤖 Machine Learning | ██████████░ |
+| 🧠 Deep Learning | ███████░░░ |
+| 👁️ Computer Vision | ██████░░░░ |
+| 💬 Large Language Models | █████░░░░░ |
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Featured Interests
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 📊 Data Science
-- 🔬 Deep Learning
-- 👁 Computer Vision
-- 📚 AI Research
+- 👁️ Computer Vision
+- 🔬 AI Research
 - 🌍 Open Source
+- 🎨 Graphic Design
 
 ---
 
-# 📌 Featured Projects
+# 🎯 2026 Goals
 
-Here are some of the projects I'm currently working on and learning from.
-
-- 🤖 Machine Learning Projects
-- 📊 Data Analysis with Python
-- 🧠 Deep Learning Experiments
-- 👁 Computer Vision Applications
-- 📚 AI Research Projects
-
----
-
-# 🌱 2026 Learning Roadmap
-
-```text
-Python
-   │
-   ▼
-NumPy & Pandas
-   │
-   ▼
-Machine Learning
-   │
-   ▼
-Deep Learning
-   │
-   ▼
-Computer Vision
-   │
-   ▼
-Large Language Models
-   │
-   ▼
-Artificial Intelligence
-```
+- ✅ Master Machine Learning
+- 🧠 Learn Deep Learning
+- 🚀 Build impactful AI Projects
+- 📚 Publish Research
+- 🌍 Contribute to Open Source
+- 🤝 Inspire and grow communities
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://github.com/maaviarizwan">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -177,24 +132,14 @@ Artificial Intelligence
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/maaviarizwan">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 </p>
 
 ---
 
-# 💬 Quote
+<div align="center">
 
-> **"Every expert was once a beginner. Every intelligent system starts with a single line of code."**
+### 💡 *"Learning today. Building tomorrow."*
 
----
+⭐ **Thank you for visiting my profile!**
 
-<p align="center">
-
-### ⭐ Thank you for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-</p>
+</div>
