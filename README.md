@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Intelligent+Solutions.;Artificial+Intelligence+Enthusiast.;Machine+Learning+Explorer.;Deep+Learning+Learner.;Python+Developer.;Always+Learning+Something+New." />
 
 <br>
+
 <img src="https://img.shields.io/github/followers/maaviarizwan?style=for-the-badge&logo=github&label=Followers"/>
 <img src="https://komarev.com/ghpvc/?username=maaviarizwan&style=for-the-badge"/>
 
