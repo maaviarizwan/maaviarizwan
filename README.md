@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge"/>
 
 </div>
-
 ---
 
 # 🚀 About Me
