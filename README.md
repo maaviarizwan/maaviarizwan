@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Maavia Rizwan
+# 👋 Hi, I'm Muhammad Maavia Rizwan.
 
 ### 🤖 Artificial Intelligence Enthusiast • 🧠 Machine Learning Explorer • 🎓 BS Computer Science Student
 
